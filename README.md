@@ -11,7 +11,7 @@ Professor José de Assis
 
 [dom4j](https://dom4j.github.io/)
 
-### Como apoiar os cursos gratuitos e projetos?
+## Como apoiar os cursos gratuitos e projetos?
 Você pode:
 - Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
 - Compartilhar os cursos e projetos
