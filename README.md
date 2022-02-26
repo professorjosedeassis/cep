@@ -6,7 +6,7 @@ Professor José de Assis
 [![Buscar CEP](https://img.youtube.com/vi/52soIAnHDvk/0.jpg)](https://youtu.be/52soIAnHDvk "Assistir no YouTube")
 ### Playlist:
 [Iniciar projeto](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxVuDWNIrG57_JGcbIL3FWP)
-### Bibliotecas usadas
+### Bibliotecas usadas neste projeto:
 [atxy2k](http://atxy2k.github.io/RestrictedTextField/)
 
 [dom4j](https://dom4j.github.io/)
