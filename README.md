@@ -3,7 +3,7 @@ Mini projeto em Java para buscar automaticamente o CEP de um Web Service podendo
 ### Autor
 Professor José de Assis
 ### Apresentação do projeto:
-[![Buscar CEP](https://img.youtube.com/vi/52soIAnHDvk/0.jpg)](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxVuDWNIrG57_JGcbIL3FWP "Assistir no YouTube")
+[![Buscar CEP](https://img.youtube.com/vi/52soIAnHDvk/0.jpg)](https://youtu.be/52soIAnHDvk "Assistir no YouTube")
 ### Playlist:
 [Iniciar projeto](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxVuDWNIrG57_JGcbIL3FWP)
 ### Bibliotecas usadas
