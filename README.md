@@ -8,17 +8,16 @@ Professor José de Assis
 
 ![YouTube Video Views](https://img.shields.io/youtube/views/52soIAnHDvk?style=social)
 ### Playlist:
-[Iniciar tutorial](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxVuDWNIrG57_JGcbIL3FWP)
+[Iniciar projeto](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxVuDWNIrG57_JGcbIL3FWP)
 ### Bibliotecas:
 [atxy2k](http://atxy2k.github.io/RestrictedTextField/)
 
 [dom4j](https://dom4j.github.io/)
-
-## Como apoiar os cursos gratuitos e projetos?
+## Como apoiar os tutoriais e projetos?
 ### Você pode:
 :heavy_check_mark: Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
 
-:heavy_check_mark: Compartilhar os cursos e projetos
+:heavy_check_mark: Compartilhar os tutoriais e projetos
 
 :heavy_check_mark: Seguir-me nas redes sociais:
 <p align="left">
