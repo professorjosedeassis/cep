@@ -1,3 +1,27 @@
+/*
+ * The MIT License
+ *
+ * Copyright 2023 Professor José de Assis.
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ */
+
 package cep;
 
 import java.awt.Cursor;
@@ -38,9 +62,6 @@ public class Cep extends JFrame {
 	private JComboBox cboUf;
 	private JLabel lblStatus;
 
-	/**
-	 * Launch the application.
-	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
@@ -54,9 +75,6 @@ public class Cep extends JFrame {
 		});
 	}
 
-	/**
-	 * Create the frame.
-	 */
 	@SuppressWarnings({ "rawtypes", "unchecked" })
 	public Cep() {
 		setTitle("Buscar CEP");
@@ -147,7 +165,7 @@ public class Cep extends JFrame {
 			}
 		});
 		btnSobre.setToolTipText("Sobre");
-		btnSobre.setIcon(new ImageIcon(Cep.class.getResource("/img/about.png")));
+		btnSobre.setIcon(new ImageIcon(Cep.class.getResource("/img/info.png")));
 		btnSobre.setCursor(Cursor.getPredefinedCursor(Cursor.HAND_CURSOR));
 		btnSobre.setBorder(null);
 		btnSobre.setBackground(SystemColor.control);
@@ -163,9 +181,6 @@ public class Cep extends JFrame {
 		validar.setLimit(8);
 	}
 
-	/**
-	 * buscarCep
-	 */
 	private void buscarCep() {
 		String logradouro = "";
 		String tipoLogradouro = "";
@@ -198,7 +213,7 @@ public class Cep extends JFrame {
 					if (resultado.equals("1")) {
 						lblStatus.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/check.png")));
 					} else {
-						JOptionPane.showMessageDialog(null, "CEP n�o encontrado");
+						JOptionPane.showMessageDialog(null, "CEP não encontrado");
 					}
 				}
 			}
@@ -208,9 +223,6 @@ public class Cep extends JFrame {
 		}
 	}
 
-	/**
-	 * limpar
-	 */
 	private void limpar() {
 		txtCep.setText(null);
 		txtEndereco.setText(null);
