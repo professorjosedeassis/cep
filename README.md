@@ -23,7 +23,7 @@ Tecnologias que são abordadas neste tutorial:
 - Uso da biblioteca dom4j para trabalhar com xml
 
 ### Iniciar tutorial
-[Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxVuDWNIrG57_JGcbIL3FWP)
+▶️ [Playlist](https://www.youtube.com/playlist?list=PLbEOwbQR9lqxVuDWNIrG57_JGcbIL3FWP)
 ### Bibliotecas:
 [atxy2k](http://atxy2k.github.io/RestrictedTextField/)
 
